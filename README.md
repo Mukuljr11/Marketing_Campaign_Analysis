@@ -1,11 +1,11 @@
 # Marketing_Campaign_Analysis(SQL & PYTHON)
 
-Project Overview:
+--> Project Overview:
 
 This project analyzes multi-channel marketing campaign data to evaluate campaign effectiveness, customer acquisition cost, and return on investment (ROI).
 The analysis is performed using MySQL (SQL) for data extraction and Python (Pandas, NumPy, Matplotlib, Seaborn) for exploratory data analysis and visualization.
 
-Business Problem:
+--> Business Problem:
 
 Marketing teams invest heavily across multiple channels such as Email, Social Media, Search Ads, and Display Ads.
 The objective of this project is to answer key business questions:
@@ -15,14 +15,14 @@ The objective of this project is to answer key business questions:
 3)How does campaign performance vary across regions?
 4)Which customer segments are most cost-effective to acquire?
 
-Tools & Technologies:
+--> Tools & Technologies:
 
 Database: MySQL (MySQL Workbench)
 Programming Language: Python
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
 Environment: Jupyter Notebook
 
-Dataset Description:
+--> Dataset Description:
 
 The project uses structured marketing data stored in four tables:
 
@@ -33,7 +33,7 @@ The project uses structured marketing data stored in four tables:
 
 All datasets are available in the /data folder.
 
-Key Metrics Analyzed:
+--> Key Metrics Analyzed:
 
 Click Through Rate (CTR)
 
@@ -45,7 +45,7 @@ Customer Acquisition Cost (CAC)
 
 Revenue by Campaign, Channel, and Region
 
-Key Insights:
+--> Key Insights:
 
 1)Email campaigns achieved higher conversion rates with lower budgets
 2)Paid search campaigns generated high revenue but moderate ROI
