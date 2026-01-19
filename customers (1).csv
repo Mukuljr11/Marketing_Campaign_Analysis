@@ -1,0 +1,11 @@
+customer_id,age_group,gender,segment,region
+101,18-25,Male,New,North
+102,26-35,Female,Returning,South
+103,36-45,Male,New,West
+104,26-35,Female,Returning,North
+105,46-55,Male,High Value,East
+106,18-25,Female,New,West
+107,36-45,Female,Returning,South
+108,26-35,Male,High Value,North
+109,46-55,Female,Returning,East
+110,18-25,Male,New,South
